@@ -1,0 +1,10 @@
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\bin\Debug\Estudoforms1.exe.config
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\bin\Debug\Estudoforms1.exe
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\bin\Debug\Estudoforms1.pdb
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.csproj.AssemblyReference.cache
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.Form1.resources
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.Properties.Resources.resources
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.csproj.GenerateResource.cache
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.csproj.CoreCompileInputs.cache
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.exe
+C:\Users\kleit\source\repos\Estudoforms1\Estudoforms1\obj\Debug\Estudoforms1.pdb
